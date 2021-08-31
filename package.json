@@ -1,7 +1,7 @@
 {
-  "name": "cypress-parallel-demo",
+  "name": "cypress-parallel",
   "version": "1.0.0",
-  "description": "cypress-parallel Demo Project",
+  "description": "cypress-parallel Project",
   "main": "index.js",
   "scripts": {
     "start": "npm start --prefix demo-app",
